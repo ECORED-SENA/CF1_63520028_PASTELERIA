@@ -5,7 +5,9 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 2
-      h1 Titulo de primer nivel
+      h1 Máquinas y equipos 
+    
+    p(data-aos="fade-right") La industria requiere para su desarrollo y actividad diversas máquinas y equipos, dependiendo del negocio que se pretenda montar, la cantidad de producción y el presupuesto disponible. 
 
 </template>
 
@@ -25,5 +27,4 @@ export default {
   },
 }
 </script>
-
 <style lang="sass"></style>
