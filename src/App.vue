@@ -64,6 +64,7 @@ export default {
 .cont_decorativo, .cont_decorativo *
   position: relative
   max-width: fit-content
+  color: white
 .cont_decorativo:before
   content: ''
   position: absolute
@@ -72,7 +73,7 @@ export default {
   height: 67%
   top: 18%
   bottom: 15%
-  background-color: #DCC366
+  background-color: #1D3FBB
   border-radius: 50px
 .banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
   color: #12263F !important
