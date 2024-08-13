@@ -157,7 +157,7 @@ export default {
     {
       termino: 'Carbohidratos',
       significado:
-        'son los nutrientes más abundantes que se encuentran en la naturaleza y los más consumidos por los humanos. están compuestos de hidrógeno, oxígeno y carbono. a ellos pertenecen los almidones. ',
+        'son los nutrientes más abundantes que se encuentran en la naturaleza y los más consumidos por los humanos. Están compuestos de hidrógeno, oxígeno y carbono. a ellos pertenecen los almidones. ',
     },
     {
       termino: 'Conservante',
@@ -171,17 +171,17 @@ export default {
     {
       termino: 'Edulcorante',
       significado:
-        'es una sustancia que proporciona un sabor dulce. pueden ser artificiales y naturales. ',
+        'es una sustancia que proporciona un sabor dulce. Pueden ser artificiales y naturales. ',
     },
     {
       termino: 'Emulsiones',
       significado:
-        'es un sistema que contiene dos sustancias inmiscibles, dispersas una en otra. una es la fase dispersa y la otra la fase dispersante o continua. ',
+        'es un sistema que contiene dos sustancias inmiscibles, dispersas una en otra. Una es la fase dispersa y la otra la fase dispersante o continua. ',
     },
     {
       termino: 'Grasa',
       significado:
-        'son compuestos de carbono, hidrógeno y oxígeno sólidos a la temperatura ambiente. tienen como nombre genérico lípidos. son de origen vegetal y animal. ',
+        'son compuestos de carbono, hidrógeno y oxígeno sólidos a la temperatura ambiente. Tienen como nombre genérico lípidos. Son de origen vegetal y animal. ',
     },
     {
       termino: 'HACCP',
@@ -230,12 +230,12 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de Línea de Producción',
+          cargo: 'Responsable de Línea de producción',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -244,8 +244,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Henry Oswaldo Acosta Romero',
+          cargo: 'Experto temtático',
+          centro:
+            'Centro Nacional de Hotelería Tursimo y Alimentos - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Paola Alexandra Moya Peralta',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -254,23 +260,13 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de Contenidos Digitales',
+          nombre: 'Blanca Flor Tinoco Torres',
+          cargo: 'Diseñador de contenidos digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
+          nombre: 'Luis Jesús Pérez Madariaga',
+          cargo: 'Desarrollador <em>Full stack</em>',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -279,13 +275,8 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
           nombre: 'Jaime Hernán Tejada Llano',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          cargo: 'Validador de recursos educativos digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {

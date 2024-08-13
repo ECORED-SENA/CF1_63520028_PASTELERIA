@@ -28,13 +28,13 @@
               ul.lista-ul.mt-3.ps-4
                 li.d-flex
                   i.fas.fa-bread-slice(style="color:#1D3FBB;")
-                  div Cáscara (10%) 
+                  div Cáscara (10 %) 
                 li.d-flex
                   i.fas.fa-bread-slice(style="color:#1D3FBB;")
-                  div Yema (32%)
+                  div Yema (32 %)
                 li.d-flex
                   i.fas.fa-bread-slice(style="color:#1D3FBB;")
-                  div Clara (58%)
+                  div Clara (58 %)
               p El huevo aporta estructura, humedad, y color a las preparaciones, además de actuar como un agente leudante natural en muchas recetas.
             .col-lg-4
               figure.m-auto.col-12.col-md-8.col-lg-12

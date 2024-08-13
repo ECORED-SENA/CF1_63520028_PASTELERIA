@@ -87,14 +87,14 @@
           .row.col-xl-11.m-auto.pt-4.pb-4
             .col-lg-7.mb-4.mb-lg-0(style="place-self:center;")
               h5 Dosificadora polivalente
-              p Es una máquina versátil que permite dosificar e inyectar todo tipo de masas blandas y semi-blandas. También dosifica trozos de fruta, frutos secos, chocolate, entre otros, de hasta 20 milímetros de diámetro. Se utiliza para dosificar muffins, croissants rellenos, bizcochos, salsas, plum-cakes, tartaletas, flanes, mermeladas, productos precocidos, etc.
+              p Es una máquina versátil que permite dosificar e inyectar todo tipo de masas blandas y semi-blandas. También dosifica trozos de fruta, frutos secos, chocolate, entre otros, de hasta 20 milímetros de diámetro. Se utiliza para dosificar #[em muffins], #[em croissants] rellenos, bizcochos, salsas, #[em plum-cakes], tartaletas, flanes, mermeladas, productos precocidos, etc.
             .col-lg-5
               figure.m-auto.col-12.col-md-8.col-lg-12
                 img(src='@/assets/curso/tema2/12.png')
           .row.col-xl-11.m-auto.pt-4.pb-4
             .col-lg-7.mb-4.mb-lg-0(style="place-self:center;")
               h5 Inyectoras
-              p Son adecuadas para la inyección de rellenos como mermelada, chocolate, dulce de leche, etc., en magdalenas o muffins. El proceso se realiza después de que los productos están cocinados sobre la misma bandeja de cocción, evitando la manipulación innecesaria. Algunas inyectoras disponibles son para croissants, profiteroles, lionesas, entre otros.
+              p Son adecuadas para la inyección de rellenos como mermelada, chocolate, dulce de leche, etc., en magdalenas o #[em muffins]. El proceso se realiza después de que los productos están cocinados sobre la misma bandeja de cocción, evitando la manipulación innecesaria. Algunas inyectoras disponibles son para croissants, profiteroles, lionesas, entre otros.
             .col-lg-5
               figure.m-auto.col-12.col-md-8.col-lg-12
                 img(src='@/assets/curso/tema2/13.png')

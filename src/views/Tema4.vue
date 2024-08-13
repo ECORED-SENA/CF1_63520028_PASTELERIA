@@ -144,7 +144,7 @@
               p.mb-0 Equipos diseñados para presentar los productos de manera atractiva mientras se mantienen refrigerados. Estas vitrinas exhibidoras suelen tener control de temperatura y humedad para asegurar la calidad de los alimentos. 
             .row.col-xl-11.m-auto(titulo="Resolución 2674 de 2013")
               p.mb-0 Establece los requisitos sanitarios para la producción, transporte y comercialización de alimentos y materias primas en Colombia. Esta resolución refuerza y actualiza las normativas establecidas en los decretos anteriores, garantizando una mayor protección de la salud pública mediante el cumplimiento de estándares sanitarios y de calidad en todas las etapas de la cadena alimentaria. 
-          p.mt-0 Además, existen guías y normativas internacionales, como las recomendaciones del Codex Alimentarius y las normativas de la FDA (Food and Drug Administration) en Estados Unidos, que también establecen estándares para las BPM.
+          p.mt-0 Además, existen guías y normativas internacionales, como las recomendaciones del Codex Alimentarius y las normativas de la FDA (#[em Food and Drug Administration]) en Estados Unidos, que también establecen estándares para las BPM.
       
       .cont_decorativo.mb-4.mt-4(data-aos="fade-right")
         .row
