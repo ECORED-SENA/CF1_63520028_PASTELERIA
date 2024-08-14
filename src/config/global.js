@@ -235,7 +235,7 @@ export default {
         },
         {
           nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de Línea de producción',
+          cargo: 'Responsable de línea de producción',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -266,7 +266,7 @@ export default {
         },
         {
           nombre: 'Luis Jesús Pérez Madariaga',
-          cargo: 'Desarrollador <em>Full stack</em>',
+          cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
