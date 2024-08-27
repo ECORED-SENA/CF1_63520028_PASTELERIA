@@ -17,7 +17,7 @@
     .cont_3_1.mt-4.pb-5
       figure(data-aos="zoom-in")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/toB0qimfD10?si=9MdkRSkZvJOZyy9f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       p.mt-4(data-aos="fade-right") Para lograr productos de alta calidad en pastelería, es esencial conocer los ingredientes clave y sus propiedades. A continuación, se presentan los ingredientes más importantes y sus funciones en las preparaciones.
       .tarjeta.p-4.p-xl-5.pb-lg-4.pb-xl-4.mt-4(style="background-color:#FEF8FC;")
         SlyderA(tipo="b")
