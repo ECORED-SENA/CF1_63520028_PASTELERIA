@@ -17,7 +17,7 @@
     .cont_3_1.mt-4.pb-5
       figure(data-aos="zoom-in")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/toB0qimfD10?si=9MdkRSkZvJOZyy9f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/RHqJFuC-yZ8?si=Qp6A6wxjsrw3zGka" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       p.mt-4(data-aos="fade-right") Para lograr productos de alta calidad en pastelería, es esencial conocer los ingredientes clave y sus propiedades. A continuación, se presentan los ingredientes más importantes y sus funciones en las preparaciones.
       .tarjeta.p-4.p-xl-5.pb-lg-4.pb-xl-4.mt-4(style="background-color:#FEF8FC;")
         SlyderA(tipo="b")
@@ -85,7 +85,7 @@
               figure
                 img(src="@/assets/curso/tema3/9.png" style="max-width:150px;display:inline;")
               h4.mt-3(style="color:#12263F;") Frutos secos y frescos
-              p.mb-0(style="color:#12263F;") Sustancias que realzan o intensifican el sabor de los alimentos, ya sean de origen natural o artificial.
+              p.mb-0(style="color:#12263F;") Utilizados según los gustos y las preparaciones, entre ellos encontramos nueces, almendras, avellanas, maní, fresas, uvas y melocotones.
       .col-md-6.col-xl-3.mb-4.mb-xl-0(data-aos="zoom-in")
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")

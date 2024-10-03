@@ -147,7 +147,7 @@ export default {
     {
       termino: 'Almidones',
       significado:
-        'son polisacáridos que se encuentran en las plantas. los almidones sirven como medio para almacenar el alimento principalmente en semillas y tubérculos de las plantas. ',
+        'son polisacáridos que se encuentran en las plantas. los almidones sirven como medio para almacenar el alimento, principalmente en semillas y tubérculos de las plantas. ',
     },
     {
       termino: 'Atemperar',
@@ -197,7 +197,7 @@ export default {
     },
     {
       referencia:
-        'Gobierno de Chile. (s.f.). <em>Módulo: Pastelería y Repostería</em></em>. Biblioteca Digital Minedu.',
+        'Gobierno de Chile. (s.f.). <em>Módulo: Pastelería y Repostería</em></em>. Biblioteca Digital Mineduc.',
       link:
         'https://bibliotecadigital.mineduc.cl/bitstream/handle/20.500.12365/4450/mo032105.pdf?sequence=20&isAllowed=y',
     },

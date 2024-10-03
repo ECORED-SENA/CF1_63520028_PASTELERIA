@@ -12,7 +12,7 @@
         figure.m-auto.col-10.col-md-8.col-lg-12
           img(src="@/assets/curso/tema1/1.png")
       .col-lg-7(data-aos="fade-left")
-        p La pastelería, una de las artes culinarias más antiguas y apreciadas, ha evolucionado significativamente a lo largo de la historia. Desde los primeros panes cocidos sobre piedra hasta la sofisticada repostería moderna, cada etapa ha sido marcada por innovaciones culturales y tecnológicas. A continuación, se presenta una breve historia de la pastelería, destacando los hitos más relevantes y las civilizaciones que contribuyeron al desarrollo de esta deliciosa disciplina. Esta línea de tiempo recorre desde los inicios en Egipto y Grecia, pasando por los avances romanos y la consolidación de los panaderos en la Edad Media, hasta llegar al florecimiento de la pastelería como se presenta a continuación:  
+        p La pastelería, una de las artes culinarias más antiguas y apreciadas, ha evolucionado significativamente a lo largo de la historia. Desde los primeros panes cocidos sobre piedra hasta la sofisticada repostería moderna, cada etapa ha sido marcada por innovaciones culturales y tecnológicas. A continuación, se presenta una breve historia de la pastelería, destacando los hitos más relevantes y las civilizaciones que contribuyeron al desarrollo de esta deliciosa disciplina. Esta línea de tiempo recorre desde los inicios en Egipto y Grecia, pasando por los avances romanos y la consolidación de los panaderos en la Edad Media, hasta llegar al florecimiento de la pastelería, como se presenta a continuación:  
     
     .cont_1_1.mt-4.pt-4.pb-4.pb-lg-5.pt-lg-5
       .tarjeta.p-4.p-xl-5(style="background-color:#FEF8FC;")
