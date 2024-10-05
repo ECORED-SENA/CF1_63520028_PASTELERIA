@@ -107,7 +107,7 @@ export default {
     {
       tema: 'Breve historia de la pastelería',
       referencia:
-        'NMás (2020). La historia de la repostería - Expreso de la Mañana. [Archivo de video] Youtube.',
+        'NMás (2020). La historia de la repostería - Expreso de la Mañana. [Archivo de video] YouTube.',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=5ggpirYrDz4&ab_channel=TribunaNetworks',
@@ -115,7 +115,7 @@ export default {
     {
       tema: 'Máquinas y equipos ',
       referencia:
-        'Restaurante Exitoso | Waiterio (2023). Equipo Esencial para Tener una Panadería Exitosa  [Archivo de video] Youtube.',
+        'Restaurante Exitoso | Waiterio (2023). Equipo Esencial para Tener una Panadería Exitosa  [Archivo de video] YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=kWKzDxAnptY  ',
     },
@@ -130,7 +130,7 @@ export default {
     {
       tema: 'Ingredientes',
       referencia:
-        'CookStorming (2020). Masterclass en Ingredientes de Repostería: cómo, cuando y por qué [Archivo de video] Youtube.   ',
+        'CookStorming (2020). Masterclass en Ingredientes de Repostería: cómo, cuando y por qué [Archivo de video] YouTube.   ',
       tipo: 'Video',
       link: 'https://youtu.be/n3ulLuQwsYc?si=XYOgZ9x8hVR4H660',
     },
